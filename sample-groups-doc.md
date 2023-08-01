@@ -4,4 +4,4 @@ The improved functionality mainly pertains to the Setup tab, with several improv
 
 The first change you will notice is that the Setup and Status tabs are consolidated into a single view. Everything you need to know about the room blocks will now be available on one screen.
 
-Contact support for further assistance on the room blocks feature.
+Contact AG support for further assistance on the room blocks feature.
